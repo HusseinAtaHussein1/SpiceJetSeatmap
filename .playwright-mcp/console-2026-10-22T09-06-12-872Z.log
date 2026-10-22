@@ -1,0 +1,51 @@
+[     906ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ http://192.168.1.90:9500/auth/login:0
+[   45393ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   61830ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   68532ms] [LOG] Tue Nov 15 1994 00:00:00 GMT+0200 (Eastern European Standard Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   68533ms] [LOG] Fri Jun 15 2035 00:00:00 GMT+0300 (Eastern European Summer Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   68533ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   68533ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   68899ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   71362ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   77616ms] [LOG] Sat Apr 16 1977 00:00:00 GMT+0200 (Eastern European Standard Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   77617ms] [LOG] Fri Jun 15 2035 00:00:00 GMT+0300 (Eastern European Summer Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   77617ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   77617ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   77847ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   80416ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   86622ms] [LOG] Sun Mar 14 2021 00:00:00 GMT+0200 (Eastern European Standard Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   86623ms] [LOG] Fri Jun 15 2035 00:00:00 GMT+0300 (Eastern European Summer Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   86623ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   86623ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   86889ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   89424ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   95694ms] [LOG] Sun Feb 15 2026 00:00:00 GMT+0200 (Eastern European Standard Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   95694ms] [LOG] Fri Jun 15 2035 00:00:00 GMT+0300 (Eastern European Summer Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   95695ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   95695ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[   96075ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[   98509ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  104365ms] [LOG] Fri May 15 2026 00:00:00 GMT+0300 (Eastern European Summer Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  104365ms] [LOG] Fri Jun 15 2035 00:00:00 GMT+0300 (Eastern European Summer Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  104366ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  104366ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  104609ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  107169ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  114302ms] [LOG] Sat Mar 12 1994 00:00:00 GMT+0200 (Eastern European Standard Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  114302ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  114302ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  114302ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  114616ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  117100ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  124857ms] [LOG] Tue Jun 20 2017 00:00:00 GMT+0200 (Eastern European Standard Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  124858ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  124858ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  124858ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  125128ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  127666ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  135583ms] [LOG] Wed Apr 15 2026 00:00:00 GMT+0200 (Eastern European Standard Time) @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  135583ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  135583ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  135584ms] [LOG] null @ http://192.168.1.90:9500/990.e4f336bec5ca0f09.js:0
+[  135919ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0
+[  138401ms] [WARNING] The baseZIndex property is deprecated since v14.2.0, use overlayOptions property instead. @ http://192.168.1.90:9500/main.28136218141410b8.js:0

@@ -1,0 +1,275 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e4]:
+    - generic [ref=f8e5]:
+      - button [ref=f8e6] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f8e7]: 
+      - generic [ref=f8e9]:
+        - generic [ref=f8e11]:
+          - link [ref=f8e12] [cursor=pointer]:
+            - /url: /settings
+            - img "AGN_Hussein profile" [ref=f8e15]
+            - generic [ref=f8e17]:
+              - heading "AGN_Hussein" [level=2] [ref=f8e18]
+              - paragraph [ref=f8e19]: AGN9794
+          - generic [ref=f8e20]:
+            - generic [ref=f8e21]:
+              - generic [ref=f8e22]: 
+              - generic [ref=f8e24]:
+                - paragraph [ref=f8e25]: "Wallet:"
+                - heading "5,000,000.000 EGP" [level=1] [ref=f8e305]
+                - paragraph [ref=f8e30]: "Current Outstanding:"
+                - heading "0.000 EGP" [level=3] [ref=f8e306]
+            - button "Top Up Wallet" [ref=f8e35] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f8e36]: 
+        - list [ref=f8e38]:
+          - listitem [ref=f8e39]:
+            - link " Dashboard" [ref=f8e40] [cursor=pointer]:
+              - /url: /dashboard
+              - generic [ref=f8e41]: 
+              - generic [ref=f8e42]: Dashboard
+            - generic:
+              - banner
+          - listitem [ref=f8e43]:
+            - link "Book Flight" [ref=f8e44] [cursor=pointer]:
+              - /url: /booking
+            - generic:
+              - banner
+          - listitem [ref=f8e47]:
+            - link " My Bookings" [ref=f8e48] [cursor=pointer]:
+              - /url: /myBooking
+              - generic [ref=f8e49]: 
+              - generic [ref=f8e50]: My Bookings
+            - generic:
+              - banner
+          - listitem [ref=f8e51]:
+            - link " My Quotes" [ref=f8e52] [cursor=pointer]:
+              - /url: /myQuotes
+              - generic [ref=f8e53]: 
+              - generic [ref=f8e54]: My Quotes
+            - generic:
+              - banner
+          - listitem [ref=f8e55]:
+            - link " Reports" [ref=f8e56] [cursor=pointer]:
+              - /url: /reports
+              - generic [ref=f8e57]: 
+              - generic [ref=f8e58]: Reports
+            - generic:
+              - banner
+          - listitem [ref=f8e59]:
+            - link " Travellers Details" [ref=f8e60] [cursor=pointer]:
+              - /url: /travellers
+              - generic [ref=f8e61]: 
+              - generic [ref=f8e62]: Travellers Details
+            - generic:
+              - banner
+          - listitem [ref=f8e63]:
+            - link " Import PNR" [ref=f8e64] [cursor=pointer]:
+              - /url: /importPnr
+              - generic [ref=f8e65]: 
+              - generic [ref=f8e66]: Import PNR
+            - generic:
+              - banner
+          - listitem [ref=f8e67]:
+            - link " Transfer PNR" [ref=f8e68] [cursor=pointer]:
+              - /url: /transferPnr
+              - generic [ref=f8e69]: 
+              - generic [ref=f8e70]: Transfer PNR
+            - generic:
+              - banner
+      - text:   
+    - generic [ref=f8e71]:
+      - generic [ref=f8e72]:
+        - banner [ref=f8e74]:
+          - generic [ref=f8e75]:
+            - img "Logo" [ref=f8e78] [cursor=pointer]
+            - generic [ref=f8e79]:
+              - generic [ref=f8e80]:
+                - generic [ref=f8e81]:
+                  - generic [ref=f8e82]: 
+                  - generic [ref=f8e83]: Hussien.ata@tildetech.ae
+                - generic [ref=f8e84]: "|"
+                - generic [ref=f8e85]:
+                  - generic [ref=f8e86]: 
+                  - generic [ref=f8e87]: +20-1215487484
+              - generic [ref=f8e88]:
+                - button "Take a tour" [ref=f8e90] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f8e91]: 
+                - button "Top Up Wallet" [ref=f8e92] [cursor=pointer]:
+                  - generic [ref=f8e93]: 
+                - button "Settings" [ref=f8e94] [cursor=pointer]:
+                  - generic [ref=f8e95]: 
+              - generic [ref=f8e97]:
+                - button "Welcome Hussein " [ref=f8e98] [cursor=pointer]:
+                  - generic [ref=f8e99]:
+                    - generic [ref=f8e100]: Welcome
+                    - generic [ref=f8e101]:
+                      - text: Hussein
+                      - generic [ref=f8e102]: 
+                - button "Profile menu" [ref=f8e103] [cursor=pointer]:
+                  - img "Hussein profile" [ref=f8e106]
+        - generic [ref=f8e325]:
+          - generic [ref=f8e327]:
+            - paragraph [ref=f8e328]: Add Traveller Details
+            - generic [ref=f8e329]: Passenger name, travel document and contact details.
+          - generic [ref=f8e331]:
+            - generic [ref=f8e333]:
+              - button " Upload document" [ref=f8e337] [cursor=pointer]:
+                - generic [ref=f8e338]: 
+                - generic [ref=f8e339]: Upload document
+              - generic [ref=f8e343]:
+                - button " Upload Photo" [ref=f8e344] [cursor=pointer]:
+                  - generic [ref=f8e345]: 
+                  - generic [ref=f8e346]: Upload Photo
+                - button " Upload Photo Click to select an image" [ref=f8e348] [cursor=pointer]:
+                  - generic [ref=f8e349]: 
+                  - generic [ref=f8e351]: Upload Photo
+                  - generic [ref=f8e352]: Click to select an image
+            - generic [ref=f8e354]:
+              - paragraph [ref=f8e358]: Personal Details
+              - generic [ref=f8e359]:
+                - generic [ref=f8e361]:
+                  - generic [ref=f8e362]: Title *
+                  - generic [ref=f8e364] [cursor=pointer]:
+                    - generic [ref=f8e365]:
+                      - combobox "Title *"
+                    - generic [ref=f8e366]: Select
+                    - button "dropdown trigger" [ref=f8e367]:
+                      - generic [ref=f8e368]: 
+                - generic [ref=f8e371]:
+                  - generic [ref=f8e372]:
+                    - generic [ref=f8e373]: First Name
+                    - generic [ref=f8e374]: "*"
+                  - textbox "First Name *" [ref=f8e376]:
+                    - /placeholder: First Name
+                - generic [ref=f8e379]:
+                  - generic [ref=f8e380]:
+                    - generic [ref=f8e381]: Last Name
+                    - generic [ref=f8e382]: "*"
+                  - textbox "Last Name *" [ref=f8e384]:
+                    - /placeholder: Last Name
+                - generic [ref=f8e387]:
+                  - generic [ref=f8e388]: Date of Birth *
+                  - generic [ref=f8e391]:
+                    - textbox "Date of Birth *" [ref=f8e392]:
+                      - /placeholder: DD/MM/YYYY
+                    - button [ref=f8e393] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f8e394]: 
+                - generic [ref=f8e397]:
+                  - generic [ref=f8e398]:
+                    - generic [ref=f8e399]: Email
+                    - generic [ref=f8e400]: "*"
+                  - textbox "Email *" [ref=f8e402]:
+                    - /placeholder: Email
+                - generic [ref=f8e405]:
+                  - generic [ref=f8e406]: Nationality *
+                  - generic [ref=f8e408] [cursor=pointer]:
+                    - generic [ref=f8e409]:
+                      - combobox "Nationality *"
+                    - generic [ref=f8e410]: Select
+                    - button "dropdown trigger" [ref=f8e411]:
+                      - generic [ref=f8e412]: 
+                - generic [ref=f8e415]:
+                  - generic [ref=f8e416]: Gender *
+                  - generic [ref=f8e418] [cursor=pointer]:
+                    - generic [ref=f8e419]:
+                      - combobox "Gender *"
+                    - generic [ref=f8e420]: Select
+                    - button "dropdown trigger" [ref=f8e421]:
+                      - generic [ref=f8e422]: 
+                - generic [ref=f8e425]:
+                  - generic [ref=f8e426]: Mobile Number *
+                  - textbox "+20 1001234567" [ref=f8e433]
+                - generic [ref=f8e436]:
+                  - generic [ref=f8e437]: Telephone Number
+                  - textbox "+20 22786566" [ref=f8e444]
+                - generic [ref=f8e447]:
+                  - generic [ref=f8e448]: Address *
+                  - textbox "Address" [ref=f8e450]
+            - generic [ref=f8e452]:
+              - paragraph [ref=f8e456]: Passport Details
+              - generic [ref=f8e457]:
+                - generic [ref=f8e459]:
+                  - generic [ref=f8e460]: Passport Number
+                  - textbox "Passport Number" [ref=f8e463]
+                - generic [ref=f8e466]:
+                  - generic [ref=f8e467]: Expiry Date
+                  - generic [ref=f8e470]:
+                    - textbox "Expiry Date" [ref=f8e471]:
+                      - /placeholder: DD/MM/YYYY
+                    - button [ref=f8e472] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f8e473]: 
+                - generic [ref=f8e476]:
+                  - generic [ref=f8e477]: Country of Issue
+                  - generic [ref=f8e479] [cursor=pointer]:
+                    - generic [ref=f8e480]:
+                      - combobox "Country of Issue"
+                    - generic [ref=f8e481]: Select
+                    - button "dropdown trigger" [ref=f8e482]:
+                      - generic [ref=f8e483]: 
+            - generic [ref=f8e485]:
+              - paragraph [ref=f8e489]: Iqama Details
+              - generic [ref=f8e490]:
+                - generic [ref=f8e492]:
+                  - generic [ref=f8e493]: Iqama Number
+                  - textbox "Iqama Number" [ref=f8e496]:
+                    - /placeholder: 23534fsdfg
+                - generic [ref=f8e499]:
+                  - generic [ref=f8e500]: Expiry Date
+                  - generic [ref=f8e503]:
+                    - textbox "Expiry Date" [ref=f8e504]:
+                      - /placeholder: DD/MM/YYYY
+                    - button [ref=f8e505] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f8e506]: 
+                - generic [ref=f8e509]:
+                  - generic [ref=f8e510]: Country of Issue
+                  - generic [ref=f8e512] [cursor=pointer]:
+                    - generic [ref=f8e513]:
+                      - combobox "Country of Issue"
+                    - generic [ref=f8e514]: Select
+                    - button "dropdown trigger" [ref=f8e515]:
+                      - generic [ref=f8e516]: 
+            - generic [ref=f8e518]:
+              - paragraph [ref=f8e522]: National ID Details
+              - generic [ref=f8e523]:
+                - generic [ref=f8e525]:
+                  - generic [ref=f8e526]: National ID Number
+                  - textbox "National ID Number" [ref=f8e529]
+                - generic [ref=f8e532]:
+                  - generic [ref=f8e533]: Expiry Date
+                  - generic [ref=f8e536]:
+                    - textbox "Expiry Date" [ref=f8e537]:
+                      - /placeholder: DD/MM/YYYY
+                    - button [ref=f8e538] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f8e539]: 
+                - generic [ref=f8e542]:
+                  - generic [ref=f8e543]: Country of Issue
+                  - generic [ref=f8e545] [cursor=pointer]:
+                    - generic [ref=f8e546]:
+                      - combobox "Country of Issue"
+                    - generic [ref=f8e547]: Select
+                    - button "dropdown trigger" [ref=f8e548]:
+                      - generic [ref=f8e549]: 
+            - generic [ref=f8e551]:
+              - button "Cancel" [ref=f8e553] [cursor=pointer]
+              - button "Save" [ref=f8e556] [cursor=pointer]
+      - contentinfo [ref=f8e294]:
+        - contentinfo [ref=f8e296]:
+          - generic [ref=f8e297]:
+            - navigation "Footer navigation" [ref=f8e298]:
+              - link "About Us" [ref=f8e299] [cursor=pointer]:
+                - /url: /info/info-group/about
+              - link "Mission" [ref=f8e300] [cursor=pointer]:
+                - /url: /info/info-group/mission
+              - link "Vision" [ref=f8e301] [cursor=pointer]:
+                - /url: /info/info-group/vision
+              - link "Policy" [ref=f8e302] [cursor=pointer]:
+                - /url: /info/info-group/policy
+              - link "Contact Us" [ref=f8e303] [cursor=pointer]:
+                - /url: /info/info-group/contact
+            - generic [ref=f8e304]: Copyright © Wonder Travel 2026. All Rights Reserved.
+  - generic [ref=f8e317] [cursor=pointer]:
+    - emphasis [ref=f8e318]: 
+    - text:  
+  - generic:
+    - generic:
+      - iframe
